@@ -4,10 +4,11 @@
 ###### Скачиваете Termux
 ###### ( t.me/yakasami_hex/170 )
 ###### и вводите поочередно команды в термуксе
-###### ```apt update && apt upgrade```
-###### ```pkg update && pkg upgrade```
-###### ```apt install git -y```
-###### ```apt install python -y```
-###### ```git clone https://github.com/Yakasam1/online-ru```
-###### ```cd online-ru```
-###### ```python infinity-online.py```
+###### (вводите без $)
+###### $ ```apt update && apt upgrade```
+###### $ ```pkg update && pkg upgrade```
+###### $ ```apt install git -y```
+###### $ ```apt install python -y```
+###### $ ```git clone https://github.com/Yakasam1/online-ru```
+###### $ ```cd online-ru```
+###### $ ```python infinity-online.py```
