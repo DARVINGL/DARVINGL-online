@@ -9,6 +9,6 @@
 ###### $ ```pkg update && pkg upgrade```
 ###### $ ```apt install git -y```
 ###### $ ```apt install python -y```
-###### $ ```git clone https://github.com/DARVINGL/DARVINGL-online/blob/main/README.md```
+###### $ ```git clone https://github.com/DARVINGL/DARVINGL-online```
 ###### $ ```cd DARVINGL-online```
 ###### $ ```python infinity-online.py```
