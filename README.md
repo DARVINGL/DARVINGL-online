@@ -9,6 +9,6 @@
 ###### $ ```pkg update && pkg upgrade```
 ###### $ ```apt install git -y```
 ###### $ ```apt install python -y```
-###### $ ```git clone https://github.com/Yakasam1/online-ru```
+###### $ ```git clone https://github.com/DARVINGL/DARVINGL-online```
 ###### $ ```cd online-ru```
 ###### $ ```python infinity-online.py```
