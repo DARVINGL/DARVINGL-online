@@ -11,4 +11,4 @@
 ###### $ ```apt install python -y```
 ###### $ ```git clone https://github.com/DARVINGL/DARVINGL-online```
 ###### $ ```cd online-ru```
-###### $ ```python infinity-onlinee.py```
+###### $ ```python infinity-online.py```
